@@ -16,8 +16,3 @@ Tenho interesse em aprendizado na área de Fullstack e Administração de Banco 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
 ![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=FLutter)
-
-
-## GitHub & GitLab Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiniDudi&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
