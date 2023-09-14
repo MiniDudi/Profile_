@@ -15,6 +15,7 @@ Tenho interesse em aprendizado na área de Fullstack e Administração de Banco 
 ![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=FLutter)
 
 
 ## GitHub & GitLab Stats
